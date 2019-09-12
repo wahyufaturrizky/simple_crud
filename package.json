@@ -1,0 +1,25 @@
+{
+  "name": "simple_crud",
+  "version": "0.1.0", 
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "bcrypt": "^3.0.0",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "4.16.3",
+    "jsonwebtoken": "^7.4.2",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.6.1",
+    "nodemon": "^1.18.4",
+    "sequelize": "^4.38.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
+}
